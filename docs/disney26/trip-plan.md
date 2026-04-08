@@ -120,6 +120,8 @@ Longest driving day of the return trip. Head up the coast.
 ### Day 7 — Friday, June 12
 **Monterey → Lassen National Park via Golden Gate Bridge | Drive: 6h30m**
 
+[![Monterey to Lassen route](monterey-to-lassen.png)](https://abetterrouteplanner.com/?plan_uuid=2-69d6d62f-309fb1eff6941963d46bdb33)
+
 Scenic return routing. Drive up through San Francisco, cross the Golden Gate Bridge, then north through the Central Valley and east on Hwy 36 into Lassen.
 
 **Points of interest:**
